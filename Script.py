@@ -23,7 +23,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗖𝗥𝗘𝗔𝗧𝗢𝗥:
-<a href="https://t.me/DARKWEBLOAD"> 𝗗𝗔𝗥𝗞 𝗪𝗘𝗕𝗟𝗢𝗔𝗗 </a>"""
+<a href="https://t.me/DARKWEBLOAD"> 𝗧𝗛𝗜𝗦 𝗣𝗘𝗥𝗦𝗢𝗡 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
