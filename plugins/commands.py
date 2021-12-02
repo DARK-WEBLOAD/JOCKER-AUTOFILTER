@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', url='https://t.me/annaben_updates')
+                InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', url='https://t.me/cinemahubmoviesS')
             ],
             [
                 InlineKeyboardButton('𝙷𝙴𝙻𝙿', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -39,8 +39,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝚄𝙾𝙿', url='http://t.me/dqautofl_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙰𝙻', url='https://t.me/EDIT_REPO')
+            InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', url='https://t.me/cinemahubmoviesS'),
+            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙰𝙻', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
             ],[
             InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about')
@@ -80,10 +80,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝚄𝙾𝙿', url='http://t.me/dqautofl_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙰𝙻', url='https://t.me/EDIT_REPO')
+            InlineKeyboardButton('𝙶𝚁𝚄𝙾𝙿', url='https://t.me/cinemahubmoviesS'),
+            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙰𝙻', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
             ],[
-            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙰𝙻', callback_data='help'),
+            InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
